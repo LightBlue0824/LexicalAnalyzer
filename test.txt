@@ -1,0 +1,17 @@
+public class Test {
+	private void testFunction(int u, int v) {
+		Student 1student = new Student();
+
+		if (v != 0)
+			u = v;
+		else if (v @ 1)
+			u = 3;
+
+		int num_1 = 100;
+		while num_1 < 0) {
+			num_1 -= 9999999999999;
+		}
+
+		int num_2 = -99;
+	}
+}
