@@ -1,14 +1,14 @@
 public class Test {
-	private void testFunction(int u, int v) {
+	private void testFunction(int x) {
 		Student 1student = new Student();
 
-		if (v != 0)
-			u = v;
-		else if (v @ 1)
-			u = 3;
+		if (x != 0)
+			print(x);
+		else if (x @ 1)
+			x = 3;
 
 		int num_1 = 100;
-		while num_1 < 0) {
+		while(num_1 < 0 || x >= 4) {
 			num_1 -= 9999999999999;
 		}
 
